@@ -1,3 +1,3 @@
-# microeconomics-with-python
+# economics-with-python
 
-A set of questions and solutions to explain microeconomics theory (Undergraduate level)- WIP
+A set of questions and solutions to explain economics theory (Introductory Undergraduate level)- WIP
